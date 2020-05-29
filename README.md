@@ -50,19 +50,12 @@ The project is implemented with the following technologies:
 Some features are:
 
 - Redux state management
-- Full CRUD functionality
 - Platform specific checks and styling for Android and IOS orientations
 - Dynamic lazy loading through FlatList
-- Custom fonts
 - Reusable components and styles
 - Flexbox design and touchable components
 - In-app alerting
-- Custom form validation
-- Pull to refresh
 - Server-side storage
-- Error handling and custom error messages
-- Loading screen
 - Persistent local storage
-- Automatic logout
 
 <img src="./image" height="600" alt="thisMustBeThePlace">
