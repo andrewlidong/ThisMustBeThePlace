@@ -51,11 +51,8 @@ Some features are:
 
 - Redux state management
 - Platform specific checks and styling for Android and IOS orientations
-- Dynamic lazy loading through FlatList
 - Reusable components and styles
 - Flexbox design and touchable components
-- In-app alerting
-- Server-side storage
-- Persistent local storage
+- Custom form submission
 
 <img src="./image" height="600" alt="thisMustBeThePlace">
