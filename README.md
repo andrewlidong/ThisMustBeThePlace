@@ -10,7 +10,7 @@ Some dependencies:
 
 ```console
 $ npm install expo-cli --global
-$ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view expo-image-picker expo-permissions
+$ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view expo-image-picker expo-permissions expo-file-system
 $ npm install --save redux react-redux react-navigation react-navigation-header-buttons react-navigation-stack react-navigation-tabs react-navigation-drawer expo-font redux-devtools-extension @expo/vector-icons moment redux-thunk expo-linear-gradient
 $ npm install
 $ expo start
