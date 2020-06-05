@@ -43,7 +43,7 @@ The project is implemented with the following technologies:
 - `Android Studio`
 - `JavaScript ES6`
 - `React Navigation`
-- `Firebase`
+- `Native camera functionality`
 
 ## Features
 
