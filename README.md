@@ -10,8 +10,7 @@ Some dependencies:
 
 ```console
 $ npm install expo-cli --global
-$ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view expo-image-picker expo-permissions expo-file-system expo-sqlite
-
+$ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view expo-image-picker expo-permissions expo-file-system expo-sqlite expo-location react-native-maps
 $ npm install --save redux react-redux react-navigation react-navigation-header-buttons react-navigation-stack react-navigation-tabs react-navigation-drawer expo-font redux-devtools-extension @expo/vector-icons moment redux-thunk expo-linear-gradient
 $ npm install
 $ expo start
@@ -44,7 +43,8 @@ The project is implemented with the following technologies:
 - `Android Studio`
 - `JavaScript ES6`
 - `React Navigation`
-- `Native camera functionality`
+- `SQLite`
+- `Google Maps Static API`
 
 ## Features
 
@@ -55,5 +55,7 @@ Some features are:
 - Reusable components and styles
 - Flexbox design and touchable components
 - Custom form submission
+- Native camera functionality
+- Location preview with google maps static api
 
 <img src="./image" height="600" alt="thisMustBeThePlace">
