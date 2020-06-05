@@ -2,7 +2,7 @@
 
 ### About
 
-ThisMustBeThePlace is a mobile app for Android and iOS that...
+ThisMustBeThePlace is a mobile app for Android and iOS that detects and allows you to save your location with your camera.
 
 Access by typing the following commands into the terminal while in the root directory. Please note, you may need to install XCode or AndroidStudio if you'd like to view the app in simulator.
 
@@ -56,7 +56,8 @@ Some features are:
 - Reusable components and styles
 - Flexbox design and touchable components
 - Custom form submission
+- Persistent storage in local database
 - Native camera functionality
-- Location preview with google maps static api
+- Location preview and google maps interactivity
 
-<img src="./image" height="600" alt="thisMustBeThePlace">
+<img src="./assets/thismustbetheplace.png" height="600" alt="thisMustBeThePlace">
