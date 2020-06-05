@@ -45,6 +45,7 @@ The project is implemented with the following technologies:
 - `React Navigation`
 - `SQLite`
 - `Google Maps Static API`
+- `Google Maps Geocoding API`
 
 ## Features
 

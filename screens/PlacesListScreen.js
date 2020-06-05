@@ -8,7 +8,6 @@ import PlaceItem from '../components/PlaceItem';
 import * as placesActions from '../store/places-actions';
 
 const PlacesListScreen = (props) => {
-  // @ts-ignore
   const places = useSelector((state) => state.places.places);
   const dispatch = useDispatch();
 
@@ -24,7 +23,7 @@ const PlacesListScreen = (props) => {
         <PlaceItem
           image={itemData.item.imageUri}
           title={itemData.item.title}
-          address={null}
+          address={itemData.item.address}
           onSelect={() => {
             props.navigation.navigate('PlaceDetail', {
               placeTitle: itemData.item.title,
