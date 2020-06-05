@@ -32,7 +32,9 @@ const ImgPicker = (props) => {
       quality: 0.5,
     });
 
+    // @ts-ignore
     setPickedImage(image.uri);
+    // @ts-ignore
     props.onImageTaken(image.uri);
   };
 
